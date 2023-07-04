@@ -12,13 +12,14 @@
 
 # 결과 화면
 ---
-<img width="170" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/59361f1e-9547-48c2-9abc-dce31166a394">
+<img width="340" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/59361f1e-9547-48c2-9abc-dce31166a394">
 
 # 사용한 방법 & 알고리즘
 ---
-* EBM(explainable boosting machine)을 사용해 feature importance 추출
+* 범주형 변수들을 cat_features에 추가
 * optuna를 통해 best 파라미터 설정
-* Teacher Model의 정보를 Student Model에게 전달하는 지식 증류 기법 사용 
+* K-fold(n_split=20) 사용, 최종 score = 각 fold의 평균
+* 
 
 # 코드
 ---
