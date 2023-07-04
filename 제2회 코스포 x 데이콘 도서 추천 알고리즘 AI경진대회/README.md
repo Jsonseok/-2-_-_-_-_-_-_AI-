@@ -22,7 +22,7 @@
 
 # 코드
 ---
-[jupyter notebook code](https://github.com/Jsonseok/SecuLayer/blob/main/%EC%A0%9C2%ED%9A%8C%20%EC%BD%94%EC%8A%A4%ED%8F%AC%20x%20%EB%8D%B0%EC%9D%B4%EC%BD%98%20%EB%8F%84%EC%84%9C%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20AI%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EB%8F%84%EC%84%9C_%EC%B6%94%EC%B2%9C.ipynb)
+[jupyter notebook code](도서_추천.ipynb)
 
 # 참고자료
 ---
