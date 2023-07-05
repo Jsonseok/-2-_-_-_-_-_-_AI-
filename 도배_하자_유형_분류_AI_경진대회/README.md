@@ -1,29 +1,29 @@
-# 제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회
+# 도배 하자 유형 분류 AI 경진대회
 ---
 # 결과
 ---
 ### 요약 정보
 * 도전기관 : 시큐레이어
 * 도전자 : 석민재
-* 최종 스코어 : (public) 3.2581
-* 제출 일자 : 2023-07-04
-* 총 참여 팀수 : 709
-* 순위 및 비율 : 3 (1.69%)
+* 최종 스코어 : (public) 0.6029611171
+* 제출 일자 : 2023-07-05
+* 총 참여 팀수 : 1074
+* 순위 및 비율 : 125 (11.63%)
 
 # 결과 화면
 ---
-<img width="500" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/59361f1e-9547-48c2-9abc-dce31166a394">
+![화면 캡처 2023-07-05 235227](https://github.com/Jsonseok/SecuLayer/assets/112038669/45c9e890-0a46-4bc8-81bd-9ed7331c4936)
 
 # 사용한 방법 & 알고리즘
 ---
-* 범주형 변수들을 cat_features에 추가
-* optuna를 통해 best 파라미터 설정
-* K-fold(n_split=20) 사용 / 최종 score = 각 fold의 평균
+* EfficientNetB4와 TTA를 활용
+* Cross_validation 사용
+* Class가 적은 데이터들을 Augmentation으로 데이터 수 증가
 
 # 코드
 ---
-[jupyter notebook code](도서_추천.ipynb)
+[jupyter notebook code](도배_하자_유형_분류.ipynb)
 
 # 참고자료
 ---
-##### https://dacon.io/competitions/official/236093/codeshare/8389?page=1&dtype=recent
+##### https://dacon.io/competitions/official/236082/codeshare/8441?page=1&dtype=recent
