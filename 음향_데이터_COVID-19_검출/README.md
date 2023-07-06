@@ -12,7 +12,7 @@
 
 # 결과 화면
 ---
-<img width="349" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/f6f48fe7-540f-4830-a156-55e1fd127926">
+<img width="500" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/f6f48fe7-540f-4830-a156-55e1fd127926">
 
 
 # 사용한 방법 & 알고리즘
