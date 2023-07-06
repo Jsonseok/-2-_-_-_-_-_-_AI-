@@ -18,8 +18,8 @@
 # 사용한 방법 & 알고리즘
 ---
 * 18개의 feature 사용
+* MinMaxScaling 적용
 * 5 fold CV 사용 후, 확률값의 평균으로 Ensemble
-* MinmaxScaling 적용
 
 # 코드
 ---
