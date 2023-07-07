@@ -5,14 +5,15 @@
 ### 요약 정보
 * 도전기관 : 시큐레이어
 * 도전자 : 석민재
-* 최종 스코어 : (public) 2.04881
+* 최종 스코어 : 2.014
 * 제출 일자 : 2023-07-05
-* 총 참여 팀수 : 20
-* 순위 및 비율 : 3 (15%)
+* 총 참여 팀수 : 13
+* 순위 및 비율 : 2 (15.3%)
 
 # 결과 화면
 ---
-![화면 캡처 2023-07-05 052314](https://github.com/Jsonseok/SecuLayer/assets/112038669/26089713-d3b5-4978-83c6-a2996f376b4c)
+<img width="800" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/30d6e2db-cde0-4546-b37c-53d9e00db668">
+<img width="800" alt="1" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/abfefa1d-304c-4cb5-a30f-c16569ea1289">
 
 # 사용한 방법 & 알고리즘
 ---
@@ -21,8 +22,8 @@
 
 # 코드
 ---
-[jupyter notebook code](바이오_AI.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
-##### https://dacon.io/competitions/official/236030/codeshare/7273
+##### https://github.com/pycaret/pycaret
