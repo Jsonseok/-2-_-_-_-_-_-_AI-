@@ -23,7 +23,7 @@
 
 # 코드
 ---
-[jupyter notebook code](TV_손동작_제어_인식.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
