@@ -12,18 +12,20 @@
 
 # 결과 화면
 ---
-<img width="500" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/59361f1e-9547-48c2-9abc-dce31166a394">
+<img width="539" alt="sub" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/c72a1614-0006-47a4-9e03-d6eb1495510b">
+<img width="440" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/b9bc5afe-375d-47ed-bd4f-fe2fe65d74c3">
 
 # 사용한 방법 & 알고리즘
 ---
 * 범주형 변수들을 cat_features에 추가
-* optuna를 통해 best 파라미터 설정
-* K-fold(n_split=20) 사용 / 최종 score = 각 fold의 평균
+* optuna를 통해 모델 하이퍼파라미터 선정
+* K-fold(n_split=20)를 사용, 20개의 output 생성 후, 결과값의 평균을 최종 output으로 사용
 
 # 코드
 ---
-[jupyter notebook code](도서_추천.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
-##### https://dacon.io/competitions/official/236093/codeshare/8389?page=1&dtype=recent
+##### https://arxiv.org/abs/1706.09516
+##### https://github.com/optuna/optuna
