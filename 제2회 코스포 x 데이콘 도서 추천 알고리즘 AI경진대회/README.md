@@ -23,7 +23,7 @@
 
 # 코드
 ---
-[jupyter notebook code](도서_추천.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
