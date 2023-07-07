@@ -29,4 +29,4 @@
 
 # 참고자료
 ---
-##### [https://github.com/albumentations-team/albumentations](https://arxiv.org/abs/1812.03982)https://arxiv.org/abs/1812.03982
+##### https://arxiv.org/abs/1812.03982
