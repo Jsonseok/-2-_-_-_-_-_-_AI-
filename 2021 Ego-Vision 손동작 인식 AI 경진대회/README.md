@@ -27,4 +27,4 @@
 
 # 참고자료
 ---
-##### https://dacon.io/competitions/official/235805/codeshare/3620?page=1&dtype=recent
+##### https://github.com/albumentations-team/albumentations
