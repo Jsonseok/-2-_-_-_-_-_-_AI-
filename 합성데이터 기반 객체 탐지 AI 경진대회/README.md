@@ -5,14 +5,16 @@
 ### 요약 정보
 * 도전기관 : 시큐레이어
 * 도전자 : 석민재
-* 최종 스코어 : (public) 0.9551148503
+* 최종 스코어 : 0.9519
 * 제출 일자 : 2023-07-04
-* 총 참여 팀수 : 879
-* 순위 및 비율 : 33 (3.75%)
+* 총 참여 팀수 : 855
+* 순위 및 비율 : 28 (3.27%)
 
 # 결과 화면
 ---
-![화면 캡처 2023-07-05 073533](https://github.com/Jsonseok/SecuLayer/assets/112038669/1a63b2ec-6210-4a1d-a266-bfba7d39fde7)
+<img width="800" alt="캡처" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/9aee706b-97f4-491e-a5ac-3f6ccd766c0a">
+<img width="800" alt="1" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/2aa7176d-b8c1-4c62-a18c-10f451ea7b50">
+
 
 # 사용한 방법 & 알고리즘
 ---
@@ -20,9 +22,8 @@
 
 # 코드
 ---
-[jupyter notebook code](합성데이터.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
-##### https://dacon.io/competitions/official/236107/codeshare/8414?page=1&dtype=recent
-##### https://dacon.io/competitions/official/236107/codeshare/8411?page=1&dtype=recent
+##### https://github.com/ultralytics/ultralytics
