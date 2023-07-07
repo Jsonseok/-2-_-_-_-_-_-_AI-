@@ -5,25 +5,25 @@
 ### 요약 정보
 * 도전기관 : 시큐레이어
 * 도전자 : 석민재
-* 최종 스코어 : (public) 3.2581
+* 최종 스코어 : 0.0156
 * 제출 일자 : 2023-07-04
-* 총 참여 팀수 : 348
-* 순위 및 비율 : 2 (0.57%)
+* 총 참여 팀수 : 290
+* 순위 및 비율 : 8 (2.78%)
 
 # 결과 화면
 ---
-![화면 캡처 2023-07-06 005001](https://github.com/Jsonseok/SecuLayer/assets/112038669/d5aa986c-075d-4eee-9c91-e3ee55c05994)
+<img width="800" alt="2" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/d2e3a452-181d-4c65-bd4c-5c348c31b7fa">
+<img width="800" alt="1" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/42da86c1-8a9e-43c1-9824-f8ff91cfeba9">
 
 
 # 사용한 방법 & 알고리즘
 ---
-* Augmentaion 기법을 통한 데이터 증
-* 5fold Ensemble 기법 사
-* K-fold(n_split=20) 사용 / 최종 score = 각 fold의 평균
+* 증강 기법을 통한 추가적인 데이터 수집
+* 5 fold Ensemble 기법 사용
 
 # 코드
 ---
-[jupyter notebook code](2021_Ego_Vision_손동작_인식_AI_경진대회.ipynb)
+[jupyter notebook code](main.ipynb)
 
 # 참고자료
 ---
