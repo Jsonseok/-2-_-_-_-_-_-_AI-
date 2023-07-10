@@ -28,4 +28,4 @@
 # 참고자료
 ---
 ##### https://arxiv.org/pdf/1905.11946.pdf
-##### https://github.com/qubvel/ttach
+##### https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
