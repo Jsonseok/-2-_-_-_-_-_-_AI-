@@ -12,8 +12,8 @@
 
 # 결과 화면
 ---
-<img width="800" alt="1" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/aa8bad23-d293-4d6f-8bbd-f93940420be3">
-<img width="800" alt="2" src="https://github.com/Jsonseok/SecuLayer/assets/112038669/6acb9830-39de-49e3-b334-82130b1f255e">
+<img width="800" alt="1" src="./img/1">
+<img width="800" alt="2" src="./img/2">
 
 # 사용한 방법 & 알고리즘
 ---
