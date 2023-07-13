@@ -25,9 +25,9 @@
 ---
 [jupyter notebook code](main.ipynb)
 
-[pth file](https://drive.google.com/drive/folders/1hOTihvbyIxsm5ygDpbUuJ7O_tzv4oXjC)
-
-[yaml file](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch/blob/master/experiments/coco/hrnet/w32_384x288_adam_lr1e-3.yaml)
+[hrnet_w48-8ef0771d.pth file](https://drive.google.com/file/d/1qm5-QfHTz5Ia71ByZ1Haq5zJpyEbZRoc/view?usp=drive_link)
+[pose_hrnet_w48_384x288.pth file](https://drive.google.com/file/d/1UoJhTtjHNByZSm96W3yFTfU5upJnsKiS/view?usp=drive_link)
+[w32_384x288_adam_lr1e-3.yaml](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch/blob/master/experiments/coco/hrnet/w32_384x288_adam_lr1e-3.yaml)
 
 # 참고자료
 ---
