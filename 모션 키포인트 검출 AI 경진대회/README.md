@@ -24,8 +24,11 @@
 # 코드
 ---
 [jupyter notebook code](main.ipynb)
+[pth file](https://drive.google.com/drive/folders/1hOTihvbyIxsm5ygDpbUuJ7O_tzv4oXjC)
+[yaml file](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch/blob/master/experiments/coco/hrnet/w32_384x288_adam_lr1e-3.yaml)
 
 # 참고자료
 ---
+##### 
 ##### https://arxiv.org/pdf/1905.11946.pdf
 ##### https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
