@@ -12,8 +12,8 @@
 
 # 결과 화면
 ---
-<img width="800" alt="1" src="./img/1">
-<img width="800" alt="2" src="./img/2">
+<img width="800" alt="1" src="./img/1.png">
+<img width="800" alt="2" src="./img/2.png">
 
 # 사용한 방법 & 알고리즘
 ---
