@@ -1,4 +1,4 @@
-# Tabular Playground Series - Jun 2021
+# Tabular Playground Series - Sep 2021
 ***
 # 결과
 ***
