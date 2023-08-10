@@ -21,7 +21,7 @@
 - Stacking을 통해 사용 모델을 Ensemble
 
 # 코드
-[Stacking_Ensemble](./code/stacking.ipynb)
+[Stacking_Ensemble](./stacking.ipynb)
 
 # 참고자료
 - https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
