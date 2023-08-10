@@ -18,7 +18,7 @@
 ***
 - HistGradientBoosting, LightGBM, Catboost, XGBoost Classifier 사용
 - StratifiedKFold를 통해 모든 Train Data를 학습에 사용
-- Stacking을 통해 사용 모델을 Ensemble
+- Stacking Ensemble을 통해 사용 모델을 통합
 
 # 코드
 [Stacking_Ensemble](./stacking.ipynb)
