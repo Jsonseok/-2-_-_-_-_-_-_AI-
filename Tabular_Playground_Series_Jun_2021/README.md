@@ -23,6 +23,8 @@
 
 # 코드
 [Ensemble_Code](./code/[3]_TPS_Jun_21_Smart_Ensembling_for_Classifier.ipynb)
+[Light_AutoML](./code/LightAutoML.ipynb)
+[Simple_Neural_Network](./code/Keras_Tuner_+_KNN_features.ipynb)
 
 # 참고자료
 - https://github.com/momijiame/gokinjo
