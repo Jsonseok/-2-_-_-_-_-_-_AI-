@@ -19,6 +19,7 @@
 - LightAutoML를 통한 최적의 모델 구축
 - Keras Tuner를 통해 Simple Neural Network의 최적의 파라미터와 구조 선정
 - KNN Feature Extraction을 통해 만들어진 새로운 KNN Features를 사용 데이터에 추가
+- 자체적인 Weight Average을 통해 두 모델 Ensemble
 
 # 코드
 
