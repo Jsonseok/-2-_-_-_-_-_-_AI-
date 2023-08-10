@@ -11,8 +11,8 @@
 - 순위 및 비율 : 4(0.34%)
 
 # 결과 화면
-![submission](./img/submission.PNG){: width="500" height="500"}
-![leaderboard](./img/leaderboard.PNG){: width="500" height="500"}
+![submission](./img/submission.PNG)
+![leaderboard](./img/leaderboard.PNG)
 
 # 사용한 방법 & 알고리즘
 ***
