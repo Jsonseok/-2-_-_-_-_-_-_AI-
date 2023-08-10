@@ -11,8 +11,8 @@
 - 순위 및 비율 : 227(17.34%)
 
 # 결과 화면
-![submission](./img/submission.png)
-![leaderboard](./img/leaderboard.png)
+![submission](./img/submission_final.png)
+![leaderboard](./img/leaderboard_final.png)
 
 # 사용한 방법 & 알고리즘
 ***
