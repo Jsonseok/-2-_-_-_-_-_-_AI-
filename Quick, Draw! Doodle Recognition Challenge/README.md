@@ -16,10 +16,11 @@
 
 # 사용한 방법 & 알고리즘
 ***
-- 
+- ResNet의 발전 모델인 DenseNet121 모델 사용
+- 이미지의 획 정보를 csv 파일로 저장하여 모델에 사용함으로써 저장 공간 절약 및 학습 시간 단축
 
 # 코드
 [DenseNet](./code/DenseNet.ipynb)
 
 # 참고자료
-
+- https://github.com/liuzhuang13/DenseNet
