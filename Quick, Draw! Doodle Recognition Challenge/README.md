@@ -20,7 +20,7 @@
 - 이미지의 획 정보를 csv 파일로 저장하여 모델에 사용함으로써 저장 공간 절약 및 학습 시간 단축
 
 # 코드
-[DenseNet](./code/densenet_121.ipynb)
+[DenseNet](./densenet_121.ipynb)
 
 # 참고자료
 - https://github.com/liuzhuang13/DenseNet
