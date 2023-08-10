@@ -22,6 +22,8 @@
 - 자체적인 Weight Average을 통해 두 모델 Ensemble
 
 # 코드
+Ensemble Code:
+![Ensemble_Code](./code/[3]_TPS_Jun_21_Smart_Ensembling_for_Classifier.ipynb)
 
 # 참고자료
 - https://github.com/momijiame/gokinjo
